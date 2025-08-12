@@ -1,3 +1,134 @@
-It's an implementation https://github.com/wildlux/OLLAMA_LOCAL
+It's a better implementation of https://github.com/wildlux/OLLAMA_LOCAL
 
-i will update the project sooner
+DSA it's for Disturbi specifici di apprendimento or Learning disability
+
+
+Original idea come from "Minority Report" &"Jarvis OS Marvel Ironman" using Split MODULES.
+
+
+- LLM [ using NLP ]
+- Python [ Portability ]
+- Webcam [ as input ] [ Tracking objects ] [ hand tracking gesture ]
+- Voice recognition [ maybe onother LLM in the future... ]
+- pencil detection for draw and writing and scientific use.
+- mousepad
+- Graphics tablet [ https://en.wikipedia.org/wiki/Graphics_tablet ]
+
+
+movie note 
+- [ Minority Report ] https://www.youtube.com/watch?v=lG7DGMgfOb8
+- [ Jarvis ] https://www.youtube.com/shorts/MGVQ5WMCjUg
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+DSA it's for Learning disability but in italian language it's more professional name, ( Disturbi specifici di apprendimento)
+cogni = cognition and flow it's for like water
+-------------------------------------------------------------------------------------------------------------------------------------------
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------
+I want to create this software for help other person with the same characteristics of me!
+
+i have a Learning disability and Autoimmune tools Medical genetics for understand and improve develop e descover as well!
+
+More information :
+- https://en.wikipedia.org/wiki/Learning_disability 
+- https://www.malattierare.gov.it/malattie/ricerca ( typology of different illness )
+-------------------------------------------------------------------------------------------------------------------------------------------
+I am dyslexic and i want to help other person with this talent because we spoken easy side visual thinking.
+WE don't use the word or phrase like you but for us word it's a simple sound.
+1) how dyslexic understand the world ?
+   - I listen a source of sound.
+   - If this corrisponding a word i connected with "dictionary italian"
+   - the word or phrase it's connect with something in my database ( record emotion and more)
+   - if true for each signal there is an implement of that data. 
+   - if false it's a simple ambient sound
+For this reason this software it's implement like this for make extremly ridiculus and ovviouse using it !
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Why i want to implement this type of software?
+Who need this software ? 
+-------------------------------------------------------------------------------------------------------------------------------------------
+- Creating/help for bioinformatics (
+- Help Research branch Autoimmune_disease for cure (  https://en.wikipedia.org/wiki/Autoimmune_disease )
+  - I have also syndrome of Shwachman-Diamond (SDS) https://en.wikipedia.org/wiki/Shwachman%E2%80%93Diamond_syndrome
+  - other other syndrome and any illnes  because i think are all connected!
+- Artist ( create new artist 2D )
+- Creating document like PDF ready for printing
+- Creating resource for everyone
+- Explain Math
+- Explainphisics
+- Explain geometry
+- Explain trigonometry
+- Explain Biologic
+- Explain Geography
+- Explain Chemical
+- Explain fluid in a contect of Engineer and industrialist 
+- Explain English/Italian/ other language
+- Explain programming [ Assembly, C , C++ , C# , Python , Javascriot , more... ]
+- Creating scheme of software for implement complex algoritm
+- Importing dataset you can mix this information for descover mutation using custom LLM.
+- Innovate how explain all things with onother vision and new prospective!
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+All togheter we can make a Good world for new generation!
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+I want to create a complex Software but i try to implement all part in folders and modules!
+I use the phylosofy of Divide et impera.
+
+Note discretion : Below i say 'click' but in my case i refer to use motion hand with my webcam for implement better the software.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+########################################################################################################################################
+
+Here i need to fix how it's works in other word and a easy way! [ placeholder for me Paolo Lo Bello ]
+
+
+#########################################################################################################################################################
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+How it's works the software? 
+-------------------------------------------------------------------------------------------------------------------------------------------
+- THe first time you have few option for input data ( text/audio/video/webcam2/USB custom/Cloud )
+
+
+|  _A_ | _B_ | _C_|
+| ------ | --- | --- |
+
+|    _INPUT_D_   |
+| ------ |
+
+Naming of layout : 
+- Section ' _A_ ' has a  [ Data Generate from _INPUT_] 
+  - ALL data need to check manually
+- Section ' _B_ ' it's your document
+- Section ' _C_ ' it's for detail of that particular selection
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Example of User EXperience : 
+
+[Phase 1 create DATA ]
+- In your screen you don't have nothing it will be create a pool of data.
+- Input your data here in a section D, for example "tell me how many color we have" ... 
+example of output -> ( red, orange, yellow, chartreuse green, green, spring green, cyan, light blue, blue, purple, magenta, and pink )
+This tupla of color will be "upload" in to section A.
+Repeat till you have all your data.  (text image video etc...)
+
+[ Phase 2 MANAGE YOUR DATA ]
+
+Now you can Drag&Drop your entry data from A -> B section. 
+- Number(s)
+  --INT
+  --FLOAT
+- Letter(s)
+  --Word(s)
+  --phrase
+- Image(s)
+- Video etc... )
+
+[ Details  of your data]
+When Click or Drag&Drop this part it's will be enable section B ==To==> C  and show some details like:
+- Show the Reference location ?  Book  / Video / DATABASE 
+- Show Metadata [ Will help you in LLM ]
