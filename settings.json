@@ -1,0 +1,15 @@
+{
+    "ollama_model": "llama3.2:latest",
+    "tts_voice": "Zephyr",
+    "face_recognition": false,
+    "timeout": 500,
+    "language": "it-IT",
+    "add_btn_color": "#4a90e2",
+    "ai_btn_color": "#4a90e2",
+    "hands_btn_color": "#4a90e2",
+    "face_btn_color": "#4a90e2",
+    "clean_btn_color": "#4a90e2",
+    "options_btn_color": "#4a90e2",
+    "log_btn_color": "#4a90e2",
+    "voice_btn_color": "#4a90e2"
+}
