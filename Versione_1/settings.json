@@ -1,0 +1,19 @@
+{
+    "ollama_model": "llama3.2:latest",
+    "tts_engine": "gTTS",
+    "tts_voice_or_lang": "Italiano (it)",
+    "tts_gender": "Femminile",
+    "tts_speed": 1.0,
+    "tts_pitch": 1.0,
+    "face_recognition": false,
+    "timeout": 500,
+    "vosk_model": "vosk-model-it-0.22",
+    "add_btn_color": "#4a90e2",
+    "ai_btn_color": "#4a90e2",
+    "hands_btn_color": "#4a90e2",
+    "face_btn_color": "#4a90e2",
+    "clean_btn_color": "#4a90e2",
+    "options_btn_color": "#4a90e2",
+    "log_btn_color": "#4a90e2",
+    "voice_btn_color": "#4a90e2"
+}
