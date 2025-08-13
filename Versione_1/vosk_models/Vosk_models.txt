@@ -1,0 +1,11 @@
+Here you need to download some vosk like..... and extract them in this folder vosk models!
+
+Example of zip to extract : 
+
+vosk-model-it-0.22.zip
+vosk-model-small-en-us-0.15.zip
+vosk-model-small-it-0.22.zip
+
+SORRY : I can not upload more then 25 mb then you need to download your self from 
+
+https://alphacephei.com/vosk/models
